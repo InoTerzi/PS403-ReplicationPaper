@@ -1,1 +1,2 @@
 # PS403-ReplicationPaper
+This repository contains the replication materials for the paper titled "Replication of [Original Paper Title]" by Ino Terzi. The replication study aims to validate and extend the findings of the original research.
